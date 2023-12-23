@@ -1,7 +1,6 @@
 # 10xDevelopment
 
-Complete 0-1 Syllabus
-Foundation
+# Backend Basics
 Foundation Javascript, async nature of JS
 Node.js and its runtime=
 Databases (NoSQL/SQL)
@@ -22,8 +21,7 @@ Scaling Node.js, performance benchmarks
 Deploying npm packages
  
 
-Frontend
-
+# Frontend
 Reconcilers and Frontend frameworks
 React beginner to advance
 Internals of state, Context API
@@ -48,13 +46,10 @@ Projects
 
 GSoC Project setting up and issue solving
 Building Paytm/Wallet End to End
- 
--------------------------------------
 
- 
 
-Complete 1-100 Syllabus
-Advanced Backend, System Design
+
+# Advanced Backend, System Design
 
 Advanced backend communication
 Message queues and PubSubs
@@ -76,7 +71,7 @@ Testing Node.js Apps in 2023
 Real time communication, basics of WebRTC
  
 
-Advanced Devops
+# Advanced Devops
 
 Container Orchestration, Docker Swarm
 Kubernetes
